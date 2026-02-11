@@ -1,5 +1,10 @@
 # 💫 About Me:
-🚀 Je développe des projets variés en développement web, programmation de jeux et bases de données afin de construire une base technique solide.<br>🎓 Je recherche activement une alternance en développement pour évoluer dans un cadre professionnel et affiner ma spécialisation.<br>📚 J’approfondis mes compétences en conception logicielle, en architecture et en bonnes pratiques de développement.<br>🤝 Je suis motivé à collaborer sur des projets concrets qui ont un impact réel.<br>💡 Curieux et déterminé, j’aime explorer différents domaines du développement pour mieux comprendre l’écosystème logiciel dans son ensemble.<br>❤️ Mon objectif : devenir un développeur complet, capable de concevoir des solutions robustes et efficaces.
+🚀 I develop a variety of projects in web development, game programming, and databases to build a solid technical foundation.<br>
+🎓 I am actively seeking a work-study program in development to grow professionally and refine my specialization.<br>
+📚 I am deepening my skills in software design, architecture, and development best practices.<br>
+🤝 I am motivated to collaborate on concrete projects that have a real impact.<br>
+💡 Curious and determined, I enjoy exploring different areas of development to better understand the software ecosystem as a whole.<br>
+❤️ My goal: to become a well-rounded developer, capable of designing robust and efficient solutions.
 
 
 ## 🌐 Socials:
