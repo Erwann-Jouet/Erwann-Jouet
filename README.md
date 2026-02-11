@@ -3,7 +3,7 @@
 🎓 I am actively seeking a work-study program in development to grow professionally and refine my specialization.<br>
 📚 I am deepening my skills in software design, architecture, and development best practices.<br>
 🤝 I am motivated to collaborate on concrete projects that have a real impact.<br>
-💡 Curious and determined, I enjoy exploring different areas of development to better understand the software ecosystem as a whole.<br>
+💡 Curious and determined, I explore different areas of development to grasp the software ecosystem.<br>
 ❤️ My goal: to become a well-rounded developer, capable of designing robust and efficient solutions.
 
 
